@@ -3,16 +3,16 @@ body {
 }
 
 #banner {
-    width: 33px;
-    height: 30px;
+    width: 43px;
+    height: 40px;
     position: absolute;
-    left: 3px;
+    left: 7px;
     top: 3px;
 }
 
 .wicked-menu {
     font-family: 'Noto Sans', sans-serif;
-    margin: 2px 0 2px 40px;
+    margin: 0px 0 2px 0px;
 }
 
 .wicked-menu a.link {
@@ -20,7 +20,7 @@ body {
 }
 
 .ui-widget {
-    font-size: 13px;
+    font-size: 23px;
 }
 
 
